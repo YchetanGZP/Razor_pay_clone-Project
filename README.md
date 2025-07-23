@@ -31,3 +31,4 @@ npm install
 Start the development server
 npm start
 Open your browser and visit http://localhost:3000
+![image alt](https://github.com/YchetanGZP/Razor_pay_clone-Project/blob/fb21c444f9e088c85244b52c238ed74ee0c32876/Screenshot%202025-07-23%20213245.png)
