@@ -17,11 +17,6 @@ A responsive and visually interactive **RazorPay landing page clone** built usin
 - **JavaScript** – DOM manipulation and logic handling
 - **CSS** – Custom styling and animations
 
-## 📸 Screenshots
-
-> (Add screenshots or a demo GIF here if available)
-
-
 ## 📦 How to Run Locally
 
 1. **Clone the repository**
